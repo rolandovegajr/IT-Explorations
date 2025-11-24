@@ -1,6 +1,6 @@
 [Back to Home](https://rolandovegajr.github.io/)
 
-#IT Explorations
+IT Explorations
 
 Summary of learning
 
